@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img</folder>
+	<filename>image14.jpeg</filename>
+	<path>C:\Users\ankit\MobilNet_SSD_opencv\images\img\image14.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>313</width>
+		<height>161</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>accident</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>70</xmin>
+			<ymin>10</ymin>
+			<xmax>254</xmax>
+			<ymax>152</ymax>
+		</bndbox>
+	</object>
+</annotation>

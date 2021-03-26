@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img</folder>
+	<filename>2020_12largeimg_224741871.jpg</filename>
+	<path>C:\Users\ankit\MobilNet_SSD_opencv\images\img\2020_12largeimg_224741871.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1040</width>
+		<height>493</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>accident</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>101</xmin>
+			<ymin>102</ymin>
+			<xmax>708</xmax>
+			<ymax>493</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img</folder>
+	<filename>lakhimpur.jpg</filename>
+	<path>C:\Users\ankit\MobilNet_SSD_opencv\images\img\lakhimpur.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>accident</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>149</xmin>
+			<ymin>253</ymin>
+			<xmax>994</xmax>
+			<ymax>605</ymax>
+		</bndbox>
+	</object>
+</annotation>

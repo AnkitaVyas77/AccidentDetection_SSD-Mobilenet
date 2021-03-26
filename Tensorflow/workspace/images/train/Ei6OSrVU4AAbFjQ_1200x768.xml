@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img</folder>
+	<filename>Ei6OSrVU4AAbFjQ_1200x768.jpeg</filename>
+	<path>C:\Users\ankit\MobilNet_SSD_opencv\images\img\Ei6OSrVU4AAbFjQ_1200x768.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>793</width>
+		<height>446</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>accident</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>27</xmin>
+			<ymin>66</ymin>
+			<xmax>749</xmax>
+			<ymax>428</ymax>
+		</bndbox>
+	</object>
+</annotation>

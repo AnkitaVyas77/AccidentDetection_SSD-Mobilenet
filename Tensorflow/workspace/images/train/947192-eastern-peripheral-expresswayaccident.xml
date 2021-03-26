@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img</folder>
+	<filename>947192-eastern-peripheral-expresswayaccident.jpg</filename>
+	<path>C:\Users\ankit\MobilNet_SSD_opencv\images\img\947192-eastern-peripheral-expresswayaccident.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>426</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>accident</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>2</ymin>
+			<xmax>426</xmax>
+			<ymax>237</ymax>
+		</bndbox>
+	</object>
+</annotation>

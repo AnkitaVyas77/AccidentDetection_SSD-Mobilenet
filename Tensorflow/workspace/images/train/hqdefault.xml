@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img</folder>
+	<filename>hqdefault.jpg</filename>
+	<path>C:\Users\ankit\MobilNet_SSD_opencv\images\img\hqdefault.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>accident</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>208</xmin>
+			<ymin>104</ymin>
+			<xmax>354</xmax>
+			<ymax>238</ymax>
+		</bndbox>
+	</object>
+</annotation>

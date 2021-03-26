@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img</folder>
+	<filename>hyderabad-accident-1575004349.jpg</filename>
+	<path>C:\Users\ankit\MobilNet_SSD_opencv\images\img\hyderabad-accident-1575004349.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1032</width>
+		<height>774</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>accident</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>227</xmin>
+			<ymin>84</ymin>
+			<xmax>958</xmax>
+			<ymax>743</ymax>
+		</bndbox>
+	</object>
+</annotation>

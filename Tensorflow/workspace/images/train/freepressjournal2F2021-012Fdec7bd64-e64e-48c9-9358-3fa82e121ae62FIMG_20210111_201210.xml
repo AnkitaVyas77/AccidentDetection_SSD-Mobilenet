@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img</folder>
+	<filename>freepressjournal2F2021-012Fdec7bd64-e64e-48c9-9358-3fa82e121ae62FIMG_20210111_201210.jpg</filename>
+	<path>C:\Users\ankit\MobilNet_SSD_opencv\images\img\freepressjournal2F2021-012Fdec7bd64-e64e-48c9-9358-3fa82e121ae62FIMG_20210111_201210.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1992</width>
+		<height>1079</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>accident</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>417</xmin>
+			<ymin>714</ymin>
+			<xmax>1664</xmax>
+			<ymax>1067</ymax>
+		</bndbox>
+	</object>
+</annotation>

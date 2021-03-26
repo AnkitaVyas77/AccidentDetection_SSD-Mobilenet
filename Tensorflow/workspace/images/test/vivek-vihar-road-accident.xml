@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img</folder>
+	<filename>vivek-vihar-road-accident.jpg</filename>
+	<path>C:\Users\ankit\MobilNet_SSD_opencv\images\img\vivek-vihar-road-accident.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>accident</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>13</xmin>
+			<ymin>112</ymin>
+			<xmax>707</xmax>
+			<ymax>371</ymax>
+		</bndbox>
+	</object>
+</annotation>
